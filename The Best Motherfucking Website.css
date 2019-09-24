@@ -1,0 +1,22 @@
+body{
+  margin:40px auto;
+  max-width:650px;
+  line-height:1.6;
+  font-size:18px;
+  background-color: #FFFFFF;
+  color:#444;
+  padding:010px
+}
+
+#logo{
+    width:16px;
+    height:16px;
+  }
+#catandlegend{
+float: left;
+}
+
+#imgcat{
+width: 300px;
+height:300px;
+}
